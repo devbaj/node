@@ -1,0 +1,12 @@
+container {
+	display: flex;
+	flex-flow: column nowrap;
+	align-items: center;
+	justify-content: space-evenly;
+}
+html {
+	font-size: 62.5%;
+}
+img {
+	height: 5rem;
+}
